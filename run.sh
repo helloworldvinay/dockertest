@@ -1,0 +1,1 @@
+java -classpath "/usr/src/app/lib/testng-6.9.8.jar:/usr/src/app/lib/jcommander-1.48.jar:/usr/src/app/target/test-classes/:/usr/src/app/lib/cucumber-testng-1.2.5.jar:/usr/src/app/lib/*" org.testng.TestNG testng.xml
